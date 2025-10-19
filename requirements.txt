@@ -1,0 +1,10 @@
+# requirements.txt
+
+# Main Telegram bot framework (recommended)
+python-telegram-bot==20.8
+
+# Optional telegram library (rarely needed, avoid importing both in same script)
+telegram==0.0.1
+
+# For working with PDF files
+PyPDF2==3.0.1
